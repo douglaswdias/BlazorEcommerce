@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b126f8b-a1c7-4c71-956c-8d0a81e31db7": {
+      "ProjectGuid": "3b126f8b-a1c7-4c71-956c-8d0a81e31db7",
+      "DisplayName": "BlazorEcommerce.Server",
+      "ColorIndex": 0
+    },
+    "c71a5795-2c27-4a4f-85df-d8433d4ba096": {
+      "ProjectGuid": "c71a5795-2c27-4a4f-85df-d8433d4ba096",
+      "DisplayName": "BlazorEcommerce.Client",
+      "ColorIndex": 1
+    },
+    "34314353-03f1-4628-b544-18377c59b3be": {
+      "ProjectGuid": "34314353-03f1-4628-b544-18377c59b3be",
+      "DisplayName": "BlazorEcommerce.Shared",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
