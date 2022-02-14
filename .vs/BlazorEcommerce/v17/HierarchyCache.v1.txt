@@ -1,0 +1,242 @@
+﻿++Solution 'BlazorEcommerce' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:BlazorEcommerce.sln
+++BlazorEcommerce.Server
+i:{00000000-0000-0000-0000-000000000000}:BlazorEcommerce.Server
+++Connected Services 
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:>2436
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:>2437
+++Dependencies
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:>2434
+i:{34314353-03f1-4628-b544-18377c59b3be}:>1379
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:>2435
+++Properties
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\properties\
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\properties\
+++Controllers
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\controllers\
+++ProductController.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\controllers\productcontroller.cs
+++WeatherForecastController.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\controllers\weatherforecastcontroller.cs
+++Data
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\data\
+++DataContext.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\data\datacontext.cs
+++Migrations
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\migrations\
+++Pages
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\pages\
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\pages\
+++Error.cshtml
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\pages\error.cshtml
+++Services
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\services\
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\services\
+++ProductService
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\services\productservice\
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\services\productservice\
+++IProductService.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\services\productservice\iproductservice.cs
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\services\productservice\iproductservice.cs
+++ProductService.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\services\productservice\productservice.cs
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\services\productservice\productservice.cs
+++appsettings.json
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\appsettings.json
+++Program.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\program.cs
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\program.cs
+++No service dependencies discovered
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:>2438
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:>2439
+++Analyzers
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:analyzers
+i:{34314353-03f1-4628-b544-18377c59b3be}:analyzers
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:analyzers
+++Frameworks
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:frameworks
+i:{34314353-03f1-4628-b544-18377c59b3be}:frameworks
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:frameworks
+++Packages
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:packages
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:packages
+++Projects
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:projects
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:projects
+++launchSettings.json
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\properties\launchsettings.json
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\properties\launchsettings.json
+++20220206130856_CreateInitial.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\migrations\20220206130856_createinitial.cs
+++20220206130945_ProductSeeding.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\migrations\20220206130945_productseeding.cs
+++DataContextModelSnapshot.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\migrations\datacontextmodelsnapshot.cs
+++Error.cshtml.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\pages\error.cshtml.cs
+++appsettings.Development.json
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\.nuget\packages\microsoft.aspnetcore.components.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{34314353-03f1-4628-b544-18377c59b3be}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{34314353-03f1-4628-b544-18377c59b3be}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{34314353-03f1-4628-b544-18377c59b3be}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\microsoft.netcore.app
+i:{34314353-03f1-4628-b544-18377c59b3be}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\shared\microsoft.netcore.app
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\microsoft.netcore.app
+++Microsoft.AspNetCore.Components.WebAssembly.Server (6.0.1)
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:>2471
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:>2467
+++Microsoft.EntityFrameworkCore.Design (6.0.1)
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:>2469
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:>2468
+++Swashbuckle.AspNetCore (6.2.3)
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:>2470
+++BlazorEcommerce.Client
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\blazorecommerce.client.csproj
+i:{00000000-0000-0000-0000-000000000000}:BlazorEcommerce.Client
+++BlazorEcommerce.Shared
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\shared\blazorecommerce.shared.csproj
+i:{00000000-0000-0000-0000-000000000000}:BlazorEcommerce.Shared
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\shared\blazorecommerce.shared.csproj
+++20220206130856_CreateInitial.Designer.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\migrations\20220206130856_createinitial.designer.cs
+++20220206130945_ProductSeeding.Designer.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\migrations\20220206130945_productseeding.designer.cs
+++Product.cs
+i:{34314353-03f1-4628-b544-18377c59b3be}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\shared\product.cs
+++ServiceResponse.cs
+i:{34314353-03f1-4628-b544-18377c59b3be}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\shared\serviceresponse.cs
+++WeatherForecast.cs
+i:{34314353-03f1-4628-b544-18377c59b3be}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\shared\weatherforecast.cs
+++wwwroot
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\
+++css
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\font\css\
+++bootstrap
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\bootstrap\
+++bootstrap.min.css
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\bootstrap\bootstrap.min.css
+++open-iconic
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\
+++app.css
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\app.css
+++favicon.ico
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\favicon.ico
+++icon-192.png
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\icon-192.png
+++index.html
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\index.html
+++Counter.razor
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\pages\counter.razor
+++FetchData.razor
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\pages\fetchdata.razor
+++Index.razor
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\pages\index.razor
+++ProductDetails.razor
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\pages\productdetails.razor
+++Shared
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\shared\
+++MainLayout.razor
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\shared\mainlayout.razor
+++NavMenu.razor
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\shared\navmenu.razor
+++ProductList.razor
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\shared\productlist.razor
+++SurveyPrompt.razor
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\shared\surveyprompt.razor
+++_Imports.razor
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\_imports.razor
+++App.razor
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\app.razor
+++bootstrap.min.css.map
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\bootstrap\bootstrap.min.css.map
+++font
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\readme.md
+++ProductDetails.razor.css
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\pages\productdetails.razor.css
+++MainLayout.razor.css
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\shared\navmenu.razor.css
+++ProductList.razor.css
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\shared\productlist.razor.css
+++ILLink.CodeFixProvider
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+++ILLink.RoslynAnalyzer
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+++Microsoft.AspNetCore.Components.WebAssembly (6.0.1)
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:>2453
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (6.0.1)
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:>2454
+++fonts
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\font\fonts\
+++open-iconic-bootstrap.min.css
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{c71a5795-2c27-4a4f-85df-d8433d4ba096}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\client\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++Category.cs
+i:{34314353-03f1-4628-b544-18377c59b3be}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\shared\category.cs
+++20220210183439_Categories.cs
+++20220210183439_Categories.Designer.cs
+++20220210184259_Categories.cs
+++20220210184259_Categories.Designer.cs
+++20220210184757_Categories.cs
+++20220210184757_Categories.Designer.cs
+++20220210185047_Categories.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\migrations\20220210185047_categories.cs
+++20220210185047_Categories.Designer.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\migrations\20220210185047_categories.designer.cs
+++20220210221031_SeedProducts.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\migrations\20220210221031_seedproducts.cs
+++20220210221031_SeedProducts.Designer.cs
+i:{3b126f8b-a1c7-4c71-956c-8d0a81e31db7}:c:\users\diana_\documents\github\blazor\blazorecommerce\blazorecommerce\server\migrations\20220210221031_seedproducts.designer.cs
