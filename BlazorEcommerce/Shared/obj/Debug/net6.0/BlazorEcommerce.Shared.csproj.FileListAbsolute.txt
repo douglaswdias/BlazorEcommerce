@@ -1,6 +1,5 @@
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.deps.json
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.dll
-C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\ref\BlazorEcommerce.Shared.dll
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.pdb
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.csproj.AssemblyReference.cache
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,3 +9,4 @@ C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\o
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.dll
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\ref\BlazorEcommerce.Shared.dll
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.pdb
+C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\refint\BlazorEcommerce.Shared.dll
