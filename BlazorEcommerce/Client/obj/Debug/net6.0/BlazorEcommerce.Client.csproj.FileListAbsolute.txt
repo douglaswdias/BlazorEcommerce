@@ -823,3 +823,6 @@ C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Client\o
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\pLespv4L.gz
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\wGwlgTDE.gz
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\refint\BlazorEcommerce.Client.dll
+C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopLayout.razor.rz.scp.css
+C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopNavMenu.razor.rz.scp.css
+C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\HomeButton.razor.rz.scp.css
