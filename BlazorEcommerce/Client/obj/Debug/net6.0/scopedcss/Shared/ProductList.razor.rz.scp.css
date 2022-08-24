@@ -24,6 +24,11 @@
     text-align: center;
 }
 
+.page-selection[b-fx5atut3jr]{
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
 @media (max-width: 1023.98px){
     .media[b-fx5atut3jr]{
         flex-direction: column;

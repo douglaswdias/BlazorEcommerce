@@ -10,3 +10,15 @@ C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\o
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\ref\BlazorEcommerce.Shared.dll
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.pdb
 C:\Users\Diana_\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\refint\BlazorEcommerce.Shared.dll
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.deps.json
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.dll
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.pdb
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.csproj.AssemblyReference.cache
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.AssemblyInfo.cs
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.dll
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\refint\BlazorEcommerce.Shared.dll
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.pdb
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\ref\BlazorEcommerce.Shared.dll
