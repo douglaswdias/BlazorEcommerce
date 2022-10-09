@@ -167,3 +167,5 @@ C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\S
 C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\BlazorEcommerce.Server.genruntimeconfig.cache
 C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\ref\BlazorEcommerce.Server.dll
 C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\douglas.wdias\Documents\Github\Blazor\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
