@@ -1,5 +1,4 @@
 ﻿using Blazored.LocalStorage;
-using Microsoft.AspNetCore.Components.Authorization;
 using System.Net.Http.Headers;
 using System.Security.Claims;
 using System.Text.Json;
@@ -19,6 +18,7 @@ namespace BlazorEcommerce.Client
         public override async Task<AuthenticationState> GetAuthenticationStateAsync()
         {
             string authToken = await _localStorageService.GetItemAsStringAsync("authToken");
+
             var identity = new ClaimsIdentity();
             _http.DefaultRequestHeaders.Authorization = null;
 
